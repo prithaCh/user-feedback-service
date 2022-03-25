@@ -1,0 +1,18 @@
+{
+	"rating": 5,
+	"comments": "very nice movie!!! great sound effects...",	
+	"email": "test1@test.com",
+	"eventName": "James Bond"
+},
+{
+	"rating": 4,
+	"comments": "Nice role play...could have been more exiting for james bond standards...overall well done",
+	"email": "test2@test.com",
+	"eventName": "James Bond"
+},
+{
+	"rating": 4,
+	"comments": "couldn't stop laughing...great comedian, just thinking how will such silly ideas flash at an instant!!!",
+	"email": "test3@test.com",
+	"eventName": "Great Indian laughter show"
+}
