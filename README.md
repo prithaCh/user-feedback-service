@@ -55,10 +55,10 @@ Note: Replace `<user-name>` with your desired value.
 
 1. Start your docker server (docker desktop or minikube)
 2. Pull the user-feedback-service docker image from [DockerHub](https://hub.docker.com/repository/docker/pranab698/user-feedback-service/tags?page=1&ordering=last_updated) \
-`docker pull pranab698/user-feedback-service:latest`
+`docker pull pranab698/user-feedback-service:v0.1.0`
 
 3. Run \
-`docker run -p 8082:8082 -d pranab698/user-feedback-service`
+`docker run -p 8082:8082 -d pranab698/user-feedback-service:v0.1.0`
 
 4. Verify the application on http://localhost:8082/
 
